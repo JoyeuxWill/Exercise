@@ -13,7 +13,7 @@ public abstract class Shape {
         return name;
     }
 
-    public void setName(String name) {
+    public void setsetName(String name) {
         this.name = name;
     }
 
